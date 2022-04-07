@@ -14,3 +14,5 @@ Tutorials for the GEO CCI project team
 3) tensorflow_eval.ipynb: This will walk you through how to evaluate the trained Mexico & Philippines model on the Brazil dataset.
 
 
+### To get a local copy of the tutorials:
+```git clone https://github.com/heatherbaier/geo-cci-tutorials```
